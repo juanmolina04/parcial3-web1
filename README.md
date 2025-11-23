@@ -58,7 +58,9 @@ Arquitectura por capas
 
 Datos en memoria (sin base de datos)
 
+```
 📂 Estructura del Proyecto
+
 ConfeccionesApp/
 │── backend/
 │   ├── controllers/
@@ -79,6 +81,7 @@ ConfeccionesApp/
 │   └── package.json
 │
 └── README.md
+```
 
 ⚙️ Instalación y Ejecución
 🟪 1. Clonar el repositorio
